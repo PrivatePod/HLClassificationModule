@@ -1,0 +1,16 @@
+PODS:
+  - HLClassificationModule (0.1.0)
+
+DEPENDENCIES:
+  - HLClassificationModule (from `../`)
+
+EXTERNAL SOURCES:
+  HLClassificationModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HLClassificationModule: 5a79757c4735b8213de7f2ee6744acdc3026a535
+
+PODFILE CHECKSUM: 72c900e24f773e3ef1f630c8630690d4027aa6a0
+
+COCOAPODS: 1.7.2
